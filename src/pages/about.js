@@ -74,7 +74,7 @@ class About extends React.Component{
                   <li>Get personal movie recommendation based on your taste</li>
                 </ul>
                 <div className="">
-                  <a className="tmdb-link2" href="https://github.com/yunghog/mov-rec" target="_blank" rel="noreferrer">View Source</a>
+                  <a className="tmdb-link2" href="https://github.com/mhflk/PeGu-Tv" target="_blank" rel="noreferrer">View Source</a>
                 </div>
               </div>
             </div>
